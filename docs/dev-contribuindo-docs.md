@@ -4,7 +4,11 @@ title: Contribuindo com a documentação do i-Educar
 sidebar_label: Contribuindo com a documentação
 ---
 
+<div id="main-content-access">
+
 Veja como você pode contribuir com a documentação do projeto.
+
+</div>
 
 ## Documentações
 

@@ -4,7 +4,11 @@ title: Como Vincular Professor à Turma?
 sidebar_label: Como Vincular Professor à Turma?
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Após ter as turmas cadastradas, faz-se necessário vincular o(s) professor(es) que irá(ão) ministrar a(s) disciplina(s) naquela turma.
+
+</div>
 
 Para realizar o vínculo de um professor à uma turma, acesse o **Módulo Servidor >> Cadastros >> Servidores >> Selecionar Servidor >> Vincular professor à turmas.**
 

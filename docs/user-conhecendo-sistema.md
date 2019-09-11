@@ -3,7 +3,11 @@ id: user-conhecendo-sistema
 title: Conhecendo o sistema
 ---
 
+<div id="main-content-access">
+
 Nesta seção, apresentaremos como acessar o sistema e como funcionam os botões, listas, filtros de busca e seleções nas páginas do sistema.
+
+</div>
 
 ## Acesso ao sistema
 

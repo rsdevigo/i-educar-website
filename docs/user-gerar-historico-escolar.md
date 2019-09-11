@@ -4,7 +4,11 @@ title: Como Gerar Históricos Escolares?
 sidebar_label: Como Gerar Históricos Escolares?
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sistema i-Educar trabalha com uma forma peculiar de geração de históricos escolares, tais como alguns relatórios. Para que um histórico escolar seja gerado, faz-se primeiramente necessário que ele seja processado. Caso não seja feito o processamento do histórico escolar, ele será gerado em branco.
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para a realizar o processamento de um histórico escolar acesse o **Módulo Escola >> Processos >> Históricos Escolares**.
 

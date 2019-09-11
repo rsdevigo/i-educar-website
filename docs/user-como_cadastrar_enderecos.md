@@ -4,7 +4,11 @@ title: Como Cadastrar Endereços?
 sidebar_label: Como Cadastrar Endereços?
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O conceito de endereçamento no i-Educar consiste no processo de identificação de dados de endereço que são essenciais para a localização instituições e pessoas. O endereçamento é essencial para que possam ser mantidos endereços e localidades sem duplicidade na base de dados. Isso aumenta a confiabilidade dos relatórios gerados pelo sistema, uma vez que os endereços (logradouros, bairros e demais variante) são consistentes.
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cadastro de endereçamentos existe certa hierarquia quanto ao cadastro sendo ela: **Países > Estados > Municípios > Distritos > Setores > Bairros > Logradouros > CEP**. Porém uma vez que as informações de País, Estado e Município ou Distrito foram definidas não há necessidade de novo cadastro ao cadastrar Bairros e Logradouros, sendo os últimos os que mais persistem quanto a cadastro.
 

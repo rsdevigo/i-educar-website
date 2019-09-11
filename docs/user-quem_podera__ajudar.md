@@ -4,8 +4,11 @@ title: Quem poderá me ajudar?
 sidebar_label: Quem poderá me ajudar?
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A comunicação com a equipe de suporte do i-educar deve acontecer via plataforma Google Hangouts. Esta aplicação permite o encaminhamento de mensagens instantâneas, ligações em voz e vídeo, criação de grupos e chat de ligação. 
 
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para usar o serviço, o usuário deve possuir uma conta no Google. Caso o usuário não tenha essa conta, poderá criá-la e acessá-la através do: 
 

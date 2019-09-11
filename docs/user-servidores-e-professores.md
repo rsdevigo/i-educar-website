@@ -3,7 +3,11 @@ id: user-servidores-e-professores
 title: Servidores e Professores
 ---
 
+<div id="main-content-access">
+
 Nesta seção apresentaremos os processos para a gestão de servidores no sistema. Um servidor no i-Educar terá seu registro para uso interno dos gestores, para fins cadastrais de controle de alocação de horas, avaliação de desempenho, quadro de horários, entre outros, ou para uso externo no caso de usuários da secretaria da escola. Para que o servidor tenha acesso ao sistema, deverá ser criado um usuário no módulo Configurações, que possibilitará o acesso ao sistema para consultas ou inserção de informações. Os tópicos a seguir fornecerão os detalhes sobre estes processos.
+
+</div>
 
 ## Servidores
 

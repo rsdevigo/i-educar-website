@@ -3,7 +3,11 @@ id: user-regras-avaliacao-notas
 title: Regras de Avaliação e Notas
 ---
 
+<div id="main-content-access">
+
 Nesta seção apresentaremos as formas como sistema efetua a avaliação dos alunos, quais os tipos e regras de avaliações possíveis e as formas de se configurar estas regras. Todos os cadastros das regras de avaliação necessitam de permissão de administrador, pois são configuradas em nível de instituição (prefeitura), ou seja, as regras se aplicam a todas as escolas da rede de ensino.
+
+</div>
 
 ## Tabelas de arredondamento
 

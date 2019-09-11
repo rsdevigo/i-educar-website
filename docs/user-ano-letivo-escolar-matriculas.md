@@ -3,7 +3,11 @@ id: user-ano-letivo-escolar-matriculas
 title: Ano Letivo Escolar e Matrículas
 ---
 
+<div id="main-content-access">
+
 Nesta seção será apresentado como são gerenciados os anos letivos escolares das escolas e as matrículas dos alunos no ano letivo. Serão vistos também como são configurados o Calendário letivo e o Quadro de horários, bem como qual o procedimento para efetuar a reserva de vaga, a rematrícula automática e o gerenciamento dos históricos escolares.
+
+</div>
 
 ## Módulos
 

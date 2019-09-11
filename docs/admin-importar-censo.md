@@ -4,8 +4,11 @@ title: Como importar dados do Censo Escolar para carga inicial no i-Educar
 sidebar_label: Importar Censo Escolar
 ---
 
+<div id="main-content-access">
+
 ## Exportação no site no Educacenso
 
+</div>
 O download dos dados é sempre referente ao ano anterior, então você tem que 
 acessar o ambiente do ano anterior ao atual.
 

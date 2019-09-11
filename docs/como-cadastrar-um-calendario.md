@@ -4,10 +4,14 @@ title: Como Cadastrar um Calendário?
 sidebar_label: Como Cadastrar um Calendário?
 ---
 
+<div id="main-content-access">
+
 >**Pré-requisitos:**
 >*  [Cadastrar uma Instituição]();
 >*  [Cadastrar uma Escola](user-como-cadastrar-uma-escola);
 >*  [Cadastrar um Ano Letivo](user-como-definir-ano-letivo).
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os calendários escolares são aqueles que contém todas as datas comemorativas e recessos do ano, além de férias e datas de início e fim de bimestre.
 

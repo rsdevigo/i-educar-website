@@ -4,6 +4,8 @@ title: Como Cadastrar Turma?
 sidebar_label: Como Cadastrar Turma?
 ---
 
+<div id="main-content-access">
+
 >**Pré-requisitos:**
 >* [Cadastrar uma Instituição]();
 >* [Cadastrar uma Escola](user-como-cadastrar-uma-escola);
@@ -11,6 +13,8 @@ sidebar_label: Como Cadastrar Turma?
 >* [Cadastrar uma Série](como-cadastrar-series);
 >* [Cadastrar um Ano letivo](user-como-definir-ano-letivo);
 >* [Cadastrar um Tipo de Turma](como-cadastrar-um-tipo-de-turma).
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O cadastro de turmas implica em quais serão as turmas existentes, com possíveis vínculos de alunos a elas e também a qual série ela se aplicará.
 

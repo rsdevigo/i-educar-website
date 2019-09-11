@@ -3,7 +3,11 @@ id: user-cadastros-sistema-educacional
 title: Cadastros do Sistema Educacional
 ---
 
+<div id="main-content-access">
+
 Seção para aprensetar todos os cadastros do módulo *Escola*, como o cadastro de cursos e séries, e dos próprios alunos, sendo o principal cadastro do sistema.
+
+</div>
 
 ## Tipos de Ocorrências disciplinares, Transferências e Abandono
 

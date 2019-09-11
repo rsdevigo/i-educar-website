@@ -4,10 +4,14 @@ title: Como Cadastrar Componentes Curriculares?
 sidebar_label: Como Cadastrar Componentes Curriculares?
 ---
 
+<div id="main-content-access">
+
 >## Pré-requisitos:
 >* [Cadastrar uma Instituição]();
 >* [Cadastrar uma Área do conhecimento](user-como-cadastrar-tipos-de-componentes-curriculares.html#areas-do-conhecimento).
 
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um componentes curriculares nada mais são do que as disciplinas que os professores irão ministrar no ano letivo.
 

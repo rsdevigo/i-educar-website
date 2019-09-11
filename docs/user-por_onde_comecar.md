@@ -4,7 +4,11 @@ title: Por onde começar?
 sidebar_label: Por onde começar?
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O sistema i-Educar trabalha com rotinas de uso onde são estabelecidas prioridades dentro dos  cadastros, fazendo assim com que todo ele seja feito sem que nenhuma etapa seja ignorada ou esquecida no processo.
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diante do exposto, este Manual trabalha com essas rotinas e descreve quais as prioridades que afetam cada processo de cadastro, e, além de tudo, explicita a ordem em que todo o cadastro seja realizado.
 

@@ -4,11 +4,15 @@ title: Como Cadastrar um Curso?
 sidebar_label: Como Cadastrar um Curso?
 ---
 
+<div id="main-content-access">
+
 >***Pré-requisitos:***
 >   * [Cadastrar um tipo de ensino](user-como_cadastrar_tipo_de_curso.html#tipos-de-ensino);
 >   * [Cadastrar um tipo de habilitação](user-como_cadastrar_tipo_de_curso.html#tipos-de-habilitacão);
 >   * [Cadastrar um nível de ensino](user-como_cadastrar_tipo_de_curso.html#tipos-de-nivel-de-ensino);
 >   * [Cadastrar um tipo de regime](user-como_cadastrar_tipo_de_curso.html#tipos-de-regime).
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escolas Municipais ofertam cursos que vão desde a Educação Infantil ao Ensino Fundamental II diferindo, por sua vez, de Escolas Estaduais que além dos cursos listados ofertam Ensino Médio, logo esses cursos ofertados têm que serem cadastrados.
 
