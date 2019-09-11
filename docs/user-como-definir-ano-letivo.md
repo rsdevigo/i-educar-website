@@ -1,6 +1,6 @@
 ---
 id: user-como-definir-ano-letivo
-title: Como Definir Ano Letivo? 
+title: Como Definir Ano Letivo?
 sidebar_label: Como Definir Ano Letivo?
 ---
 
