@@ -4,7 +4,11 @@ title: Documentação para Usuários
 sidebar_label: Home
 ---
 
+<div id="main-content-access">
+
 Dividimos a documentação para usuários nos seguintes tópicos:
+
+</div>
 
 - [Conhecendo o sistema](user-conhecendo-sistema.md)
 - [Módulo Endereçamento e Pessoas](user-modulo-enderecamento-pessoas.md)

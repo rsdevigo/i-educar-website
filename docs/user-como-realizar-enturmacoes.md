@@ -6,6 +6,8 @@ sidebar_label: Como Realizar Enturmações?
 
 <div class="justificado">
 
+<div id="main-content-access">
+
 >**Pré-requisitos:**
 >* [Cadastrar uma Instituição]();
 >* [Cadastrar uma Escola](user-como-cadastrar-uma-escola);
@@ -14,6 +16,7 @@ sidebar_label: Como Realizar Enturmações?
 >* [Cadastrar um Aluno](user-como-cadastrar-um-aluno);
 >* [Cadastrar uma Turma](como-cadastrar-turma).
 
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Após a criação das turmas, faz-se necessário enturmar os alunos em suas dadas turmas. Para isso tem-se o processo de enturmação. Enturmar um aluno significa dispô-lo em uma turma na qual irá cursar durante todo o período letivo.
 

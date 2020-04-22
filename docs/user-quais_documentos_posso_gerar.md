@@ -4,7 +4,11 @@ title: Quais documentos posso gerar?
 sidebar_label: Quais documentos posso gerar?
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por meio do menu ***Escola >> Documentos***, uma série de documentos (157 tipos de relatórios) podem ser gerados para o auxílio administrativo da gestão escolar, de acordo com a seguinte categorização:
+
+</div>
 
 >## 1. Atestados
 

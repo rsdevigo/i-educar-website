@@ -4,7 +4,11 @@ title: Como Reservar Vagas?
 sidebar_label: Quais os Requisitos para Finalizar um Ano Letivo?
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para que o Ano letivo possa ser fechado faz-se necessário que a situação de todos os alunos da escola estejam diferentes de cursando, caso o botão fechar ano letivo não esteja aparecendo na tela apresentada acima, faça as verificações necessárias de todos os alunos que no sistema, possuem vínculo com a escola, para poder realizar o fechamento do ano letivo desejado. 
+<div id="main-content-access">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para que o Ano letivo possa ser fechado faz-se necessário que a situação de todos os alunos da escola estejam diferentes de cursando, caso o botão fechar ano letivo não esteja aparecendo na tela apresentada acima, faça as verificações necessárias de todos os alunos que no sistema, possuem vínculo com a escola, para poder realizar o fechamento do ano letivo desejado.
+
+</div>
 
 >## Quais verificações devo fazer?
 

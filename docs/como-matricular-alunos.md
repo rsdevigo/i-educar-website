@@ -4,8 +4,12 @@ title: Como Matricular Alunos?
 sidebar_label: Como Matricular Alunos?
 ---
 
+<div id="main-content-access">
+
 >**Pré-requisitos:**
 >* [Cadastrar um Aluno](user-como-cadastrar-um-aluno).
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O processo da matrícula é um dos mais importantes do âmbito escolar, sendo assim um dos que mais precisam de atenção. Matricular um aluno no sistema i-Educar implica num cadastro prévio dele como pessoa física e como aluno, ja listado no tópico como cadastrar um aluno.
 

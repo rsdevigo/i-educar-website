@@ -4,9 +4,13 @@ title: Como Cadastrar Servidores?
 sidebar_label: Como Cadastrar Servidores?
 ---
 
+<div id="main-content-access">
+
 >## Pré-requisitos:
 > 1. [Cadastrar uma Pessoa](user-como-cadastrar-pessoas-fisicas-ou-juridicas);
 > 2. [Cadastrar uma Função](user-como-cadastrar-funcoes).
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Servidores são funcionários que trabalham no âmbito da escola e para cadastrá-los basta seguir a lista de pré-requisitos acima e posteriormente realizar as operações abaixo.
 

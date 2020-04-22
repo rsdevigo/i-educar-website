@@ -3,7 +3,11 @@ id: apresentacao
 title: Apresentação
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A educação contemporânea está a cada dia mais conectada a tecnologia e a inovação. Neste contexto, pensar na organização e gestão escolar por meio de ferramentas tecnológicas acessíveis, materializam uma evolução nos processos e auxiliam os gestores, professores, técnicos administrativos e comunidade a contribuir para uma educação pública, gratuita e de qualidade. 
+
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesta direção, este material apresenta uma série de tutoriais de uso do Sistema de Gestão Escolar i-Educar 2.0, que foi produzido pela equipe do projeto **Ações de apoio à inclusão digital e desenvolvimento de soluções interativas**, formada por servidores e discentes do Instituto Federal de Mato Grosso do Sul - IFMS. Essa equipe atuou em consonância com o Plano de Trabalho compartilhado com Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC para desenvolver um sistema capaz de atender às demandas pedagógicas, administrativas  e de gestão escolar. 
 

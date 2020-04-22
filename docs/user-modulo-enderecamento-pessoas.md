@@ -3,7 +3,11 @@ id: user-modulo-enderecamento-pessoas
 title: Módulo Endereçamento e Pessoas
 ---
 
+<div id="main-content-access">
+
 Apresentação dos módulos de endereçamento e pessoas físicas e jurídicas, além dos tipos deficiência, cor ou raça e religião.
+
+</div>
 
 ## Módulo Endereçamento
 

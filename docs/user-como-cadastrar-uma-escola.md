@@ -4,9 +4,13 @@ title: Como Cadastrar uma Escola?
 sidebar_label: Como Cadastrar uma Escola?
 ---
 
+<div id="main-content-access">
+
 >## Pré-requisitos: 
 >* [Cadastrar Rede de Ensino](user-como_cadastrar_tipos_de_escola#tipos-de-rede-de-ensino);
 >* [Cadastrar Cursos](user-como_cadastrar_um_curso).
+
+</div>
 
 <div class="textoJustificado">
 

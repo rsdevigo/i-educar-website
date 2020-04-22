@@ -3,7 +3,11 @@ id: dev-padroes-docs
 title: Padrões de documentação
 ---
 
+<div id="main-content-access">
+
 Foram definidos alguns padrões para que a documentação possa evoluir colaborativamente.
+
+</div>
 
 ## Padrões definidos
 

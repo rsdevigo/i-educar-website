@@ -3,7 +3,11 @@ id: user-configuracoes
 title: Configurações
 ---
 
+<div id="main-content-access">
+
 Nesta seção apresentaremos como são configurados os usuários que podem acessar o sistema e como podem ser atribuídas suas permissões, bloqueios e demais configurações de segurança, assim como as demais ferramentas gerenciais oferecidas pelo sistema.
+
+</div>
 
 ## Permissões (tipos de usuário/usuários)
 

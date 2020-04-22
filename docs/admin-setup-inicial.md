@@ -4,8 +4,12 @@ title: Setup inicial
 sidebar_label: Setup inicial
 ---
 
+<div id="main-content-access">
+
 Serão descritos os passos necessários para fazer o setup inicial do i-Educar de 
 forma que todos os seus recursos possam ser aproveitados.
+
+</div>
 
 ## Configurar a instituição
 

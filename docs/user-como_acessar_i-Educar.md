@@ -4,8 +4,12 @@ title: Como acessar o i-Educar?
 sidebar_label: Como acessar o i-Educar?
 ---
 
+<div id="main-content-access">
+
 > ***Pré-requisitos:*** 
 > * Possuir um navegador instalado na máquina ([Google Chrome](https://www.google.com/intl/pt-BR_ALL/chrome/) ou [Mozilla Firefox](https://www.mozilla.org/pt-BR/firefox/new/)).
+
+</div>
 
 1\) **Acesse a página**: <a href=https://novaandradina.ieducar.com.br target="_blank">https://novaandradina.ieducar.com.br</a>
 

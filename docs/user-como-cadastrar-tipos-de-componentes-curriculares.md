@@ -4,7 +4,7 @@ title: Como Cadastrar Tipos de Componentes Curriculares?
 sidebar_label: Como Cadastrar Tipos de Componentes Curriculares?
 ---
 
-<div class="textoJustificado">
+<div class="textoJustificado" id="main-content-access">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antes dos cadastros dos componentes curriculares de uma escola, é dado como pré requisito no sistema i-Educar os cadastros de Tipos de Componentes Curriculares sendo eles: **Áreas do Conhecimento;  Tipos de dispensa.**
 

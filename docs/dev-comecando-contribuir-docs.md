@@ -3,7 +3,11 @@ id: dev-comecando-contribuir-docs
 title: Começando a contribuir com a documentação
 ---
 
+<div id="main-content-access">
+
 Para começar a contribuir é necessário entender o funcionamento da aplicação que gera a documentação do i-Educar.
+
+</div>
 
 ## Compreendendo o Docusaurus
 

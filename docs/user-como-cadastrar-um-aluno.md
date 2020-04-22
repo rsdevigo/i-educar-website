@@ -4,7 +4,11 @@ title: Como Cadastrar um Aluno?
 sidebar_label: Como Cadastrar um Aluno?
 ---
 
+<div id="main-content-access">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existem algumas formas de realizar cadastro de alunos e essas serão apresentadas conforme segue:
+
+</div>
 
 ## Cadastro simplificado de alunos
 
